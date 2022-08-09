@@ -28,4 +28,13 @@ Benefits of using create-react-app when creating a React.js app
 Differences between Class and Hooks
 
 ### Routing in React
+Use of Link and Outlet
 
+### Firebase and Firestore
+Authentication with Firebase and creating/usage of database with Firestore
+
+### React Context 
+Creation of context for state management across the app components
+
+### Observer Pattern
+Usage of Listener at Context Provider, to make state management more abstract 
