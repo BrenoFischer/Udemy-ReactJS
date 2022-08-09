@@ -41,7 +41,7 @@ const SignUpForm = () => {
                 alert('Cannot create user, email already in use');
             }
             else {
-                console.log('User creating encoutere error');
+                console.log('User creating encoutere error', error);
             }
         }
     }
