@@ -37,4 +37,10 @@ Authentication with Firebase and creating/usage of database with Firestore
 Creation of context for state management across the app components
 
 ### Observer Pattern
-Usage of Listener at Context Provider, to make state management more abstract 
+Usage of Listener at Context Provider, to make state management more abstract
+
+### Adding collection in Firestore
+Via .writeBatch() method, wrote JSON format documents to the Firestore database
+
+### Nested and Dynamic routes
+Use of path=":string" to determine a nested dynamic Route
