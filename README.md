@@ -44,3 +44,7 @@ Via .writeBatch() method, wrote JSON format documents to the Firestore database
 
 ### Nested and Dynamic routes
 Use of path=":string" to determine a nested dynamic Route
+
+### Styled Components
+How to use styled components and the benefits of auto-generating classes names
+
